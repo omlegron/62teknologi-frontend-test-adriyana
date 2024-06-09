@@ -1,0 +1,3 @@
+REACT JS
+buat .env pada contoh .env.local
+dan penyesuaian dengan backend url pada source backend.
